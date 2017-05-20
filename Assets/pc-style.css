@@ -54,6 +54,7 @@ body {
 	background-color: black;
 	background-image: url("Photos/background.png");
 	padding:1%;
+	margin: 0px;
 }
 
 .navbar-inverse {
@@ -128,7 +129,7 @@ img.tiny-logo {
 
 .on-sale-img {
 
-	width: 95.5%;
+	width: 100%;
 	float: left;
 	opacity: 1;
 	border-style: solid;
@@ -140,7 +141,7 @@ img.tiny-logo {
 .new-arrival-img {
 
 	float:right;
-	width: 95.5%;
+	width: 100%;
 	opacity: 1;
 	border-style: solid;
 	border-color: black;
@@ -174,14 +175,14 @@ img.tiny-logo {
 	.on-sale-img {
 
 		float: left;
-		margin: 0% 0% 3% 2%;
+		margin: 0% 0% 2% 0%;
 
 	}
 
 	.new-arrival-img {
 
 		float: left;
-		margin: 0% 0% 3% 2%;
+		margin: 0% 0% 2% 0%;
 	}
 
 }
